@@ -21,7 +21,6 @@ A multithreaded Python-based port scanner that scans a target host for open TCP 
 **Tools/Modules Used:**  
 `socket`, `threading`, 
 
-📂 **Directory:** `port-scanner/`
 ---
 
 ### 2. 🔐 Password Strength Checker
@@ -34,8 +33,6 @@ A command-line tool that evaluates password strength based on length, character 
 
 **Tools/Modules Used:**  
 `re`, `getpass`
-
-📂 **Directory:** `password-checker/`
 
 ---
 
